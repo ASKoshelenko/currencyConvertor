@@ -1,2 +1,3 @@
-# currencyConvertor
-currencyConvertor on React
+# Illustration CurrencyConvertor on React
+![Иллюстрация к проекту](https://github.com/ASKoshelenko/currencyConvertor/blob/main/public/currencyConvertor.png)
+
